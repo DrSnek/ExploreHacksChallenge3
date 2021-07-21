@@ -30,5 +30,4 @@ plt.show()
 print("The final cost comes as " + str(computeCost(x, y, theta, m))) 
 
 
-
-# final cost = 756.4073367032673
+#final cost = 756.4073367032673
